@@ -1,0 +1,20 @@
+.odd{
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+.adjus-font-size{
+    font-size: 24px;
+}
+
+#two{
+    color: #1500ff ;
+    font-size: 36px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
